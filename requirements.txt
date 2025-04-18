@@ -1,0 +1,18 @@
+# Financial Market Prediction System
+# Requirements file
+
+# Core dependencies
+numpy>=2.2.0
+pandas>=2.0.0
+streamlit>=1.0.0
+scikit-learn>=1.0.0
+requests>=2.0.0
+
+# Data visualization
+plotly>=5.0.0
+
+# For real estate predictions with AI
+groq>=0.5.0
+
+# Time processing
+python-dateutil>=2.8.0
